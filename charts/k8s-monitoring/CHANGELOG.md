@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-*   Fix standardize on upper-case in level lables (#2844) (@saruprim)
+*   Fix standardize on upper-case in level labels (#2844) (@saruprim)
 
 ## 4.2.2
 

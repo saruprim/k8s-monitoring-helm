@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+*   Add missing extra metric processing rules for Istio metrics integration (@1azunna)
+
 ## 4.2.2
 
 *   Add `attachNamespaceMetadata` option to the Pod Logs (via Loki and via Kubernetes API) features. When enabled, namespace labels are attached to pod discovery targets and made available as `__meta_kubernetes_namespace_label_*`. (@petewall, @tdudas)
